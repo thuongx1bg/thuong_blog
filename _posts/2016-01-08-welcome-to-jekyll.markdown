@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Nguyen Van Thuong!"
 date:   2016-01-08 15:04:23
 categories: [jekyll]
 tags: [jekyll]
