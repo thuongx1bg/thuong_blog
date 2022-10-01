@@ -1,19 +1,19 @@
 # Site settings
-title: Nguyễn Văn Thương
+title: Nguyen Van Thuong
 description: 'Nguyen Van Thuong - fresher php laravel'
-url: 'http://joshgerdes.com/jekyll-uno'
+url: 'https://thuongx1bg.github.io/thuong_blog/'
 baseurl: '/thuong_blog'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Nguyen Van Thuong'
+  email: thuongx1bg@gmail.com
+  twitter_username: 
+  facebook_username: anh.pro.94043
+  github_username:  thuongx1bg
+  linkedin_username:  
 
 defaults:
   -
