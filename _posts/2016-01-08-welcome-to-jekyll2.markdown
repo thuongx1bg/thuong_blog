@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to Nguyen Van Thuong!"
-date:   2022-01-10 15:04:23
-categories: [Project website sell clothes (Project 2 in Hust)]
+title:  "Project website sell clothes (Project 2 in Hust)"
+date:   2022-02-10 15:04:23
+categories: [Project]
 tags: [Php/laravel]
 ---
 [Link source code and report of project][link]
