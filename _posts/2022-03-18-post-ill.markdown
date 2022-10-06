@@ -4,4 +4,4 @@ date:   2022-03-10 15:04:23
 categories: [Project]
 tags: [Reactjs]
 ---
-![This is a alt text.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9BuYIvQttCd0Lmc1Mixy8SaO8FK7mHs50MGcszf7&s "This is a sample image.")
+![This is a alt text.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9BuYIvQttCd0Lmc1Mixy8SaO8FK7mHs50MGcszf7&s "This is a sample image."){:height="36px" width="36px"}.

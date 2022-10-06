@@ -12,7 +12,7 @@ Step 2: run terminal
   npm start
 ```
 [Link source code and report of project][link]
-[Link demo][link_demo]
+[Link demo][demo]
 
 [link]:      https://github.com/thuongx1bg/react_app_tictactoe
-[link_demo]: https://thuongx1bg.github.io/react_app_tictactoe/
+[demo]: https://thuongx1bg.github.io/react_app_tictactoe/
