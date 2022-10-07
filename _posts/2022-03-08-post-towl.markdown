@@ -5,9 +5,14 @@ categories: [Project_Reactjs]
 tags: [Reactjs]
 ---
 Setup
+
 Step 1: download nodejs
 
 Step 2: run terminal 
+
+Demo
+
+![This is a alt text.]({{ site.baseurl }}/images/tictactoe/home.png "This is a home image.")
 ``` ruby
   npm start
 ```
