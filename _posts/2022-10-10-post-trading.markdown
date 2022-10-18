@@ -1,6 +1,6 @@
 ---
 title:  "Trading coin"
-date:   2022-10-18 15:04:23
+date:   2022-10-10 15:04:23
 categories: [Trading coin]
 tags: [Tradincoin]
 ---
