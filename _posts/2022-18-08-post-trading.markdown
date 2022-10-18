@@ -27,9 +27,6 @@ Buổi 5 📍  Record: https://us02web.zoom.us/rec/share/uEsuNP4Hu6v03oiwaGthv8K
 Buổi 6 📍  Record: https://drive.google.com/file/d/1aPYRvmLvkyoB2RX_WNvYmDQ7r3oIL_xL/view?usp=sharing
 
 
-![This is a alt text.]({{ site.baseurl }}/images/tictactoe/home.png "This is a home image.")
-[Link source code and report of project][link]
-[Link demo][demo]
 
 [buoi1]:      https://us02web.zoom.us/rec/share/u5ScIdpHYns-1TkNG5v5b5q0hECFlpKoNC8f8v4OR5Q_TTKwhbS3fFiFOrswczR-.hYC_DWYVqKlpOACl
 [demo]: https://thuongx1bg.github.io/react_app_tictactoe/
