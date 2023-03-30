@@ -6,7 +6,7 @@ tags: [Reactjs]
 ---
 Buổi 1   
 
-📍  Tài liệu: [Link 1][buoi1]
+📍  Tài liệu: [Link tài liệu][buoi1]
 
 
 
