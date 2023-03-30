@@ -2,7 +2,7 @@
 title:  "Lập trình reactjs a-z"
 date:   2023-03-30 15:04:23
 categories: [Reactjsaz]
-tags: [Reactjs]
+tags: [Reactjsaz]
 ---
 Buổi 1   
 
